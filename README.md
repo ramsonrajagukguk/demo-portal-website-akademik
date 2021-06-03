@@ -1,5 +1,6 @@
 # demo-portal-webasite-akademik
 Website portal akademik menggunakan framework Laravel 8
+<br>
 Tampilan Halaman Depan
 
 ![Screenshot 2021-06-02 130916](https://user-images.githubusercontent.com/56661346/120432485-31a6cd00-c3a4-11eb-9ef4-65b057b3ca87.png)
