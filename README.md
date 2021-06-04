@@ -1,7 +1,7 @@
 # demo-portal-webasite-akademik
 Website portal akademik menggunakan framework Laravel 8
 <br>
-Password admin dan winrarnya: https://www.youtube.com/watch?v=2PkWBWhHiwE
+Password admin dan winrarnya ada dilink beriku: https://www.youtube.com/watch?v=2PkWBWhHiwE
 <br>
 Tampilan Halaman Depan
 
