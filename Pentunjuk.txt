@@ -1,2 +1,0 @@
-Website portal akademik menggunakan framework Laravel 8
-
