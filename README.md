@@ -4,6 +4,7 @@ Website portal akademik menggunakan framework Laravel 8
 Password admin dan winrarnya ada dilink berikut: https://www.youtube.com/watch?v=9ug7TApDSR4
 <br>
 Tampilan Halaman Depan
+<br>
 ![1](https://user-images.githubusercontent.com/56661346/183106632-8d6499a8-e741-4bed-a559-18aab32fa806.jpg)
 ![2](https://user-images.githubusercontent.com/56661346/183106643-de591d42-daff-45a6-8502-58534030ee7a.jpg)
 ![3](https://user-images.githubusercontent.com/56661346/183106650-94953e96-8c12-424a-9b47-9ce0a669e2a6.jpg)
@@ -12,15 +13,5 @@ Tampilan Halaman Depan
 ![6](https://user-images.githubusercontent.com/56661346/183106675-c7f1aa94-c313-4b9e-b3ed-f94a6773edea.jpg)
 ![7](https://user-images.githubusercontent.com/56661346/183106678-e5af2916-2239-4595-bf5b-c771dd3f5d33.jpg)
 
-
-
-Tampilan Halaman Admin
-<br>
-Login:
-<br>
-Email    : admin@gmail.com
-Password : 12345678
-
-![Screenshot 2021-06-03 092627](https://user-images.githubusercontent.com/56661346/120578941-d7177a80-c450-11eb-9415-e81178e77dcb.png)
 
 
