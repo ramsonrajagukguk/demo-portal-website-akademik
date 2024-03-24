@@ -10,7 +10,7 @@ Tampilan Halaman Depan
 ![3](https://user-images.githubusercontent.com/56661346/183106650-94953e96-8c12-424a-9b47-9ce0a669e2a6.jpg)
 ![4](https://user-images.githubusercontent.com/56661346/183106659-4d8e8e64-947b-4bdb-ad2c-8b5c3c448a18.jpg)
 ![5](https://user-images.githubusercontent.com/56661346/183106667-7eb9f306-0dba-4832-8105-f269d3ab0619.jpg)
-![6](https://user-images.githubusercontent.com/56661346/183106675-c7f1aa94-c313-4b9e-b3ed-f94a6773edea.jpg)
+![5](https://github.com/ramsonrajagukguk/demo-portal-website-akademik/assets/56661346/6d19da30-e391-4a26-b64d-e21e3e228f52)
 ![7](https://user-images.githubusercontent.com/56661346/183106678-e5af2916-2239-4595-bf5b-c771dd3f5d33.jpg)
 
 
